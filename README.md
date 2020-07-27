@@ -1,25 +1,25 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# Ты все еще не знаешь JS (серия книг) - 2ое издание
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+Это серия книг, глубоко исследующих основные механизмы языка JavaScript. Это **второе издание** книжной серии:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**Чтобы узнать больше о мотивациях и перспективах этой серии книг, ознакомьтесь с предисловием [Предисловием](preface.md).**
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+Если вы ищете предыдущее **первое издание** книг, [их можно найти здесь](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
-## Premier Sponsor
+## Главный спонсор
 
-This edition of the **YDKJS** book series is exclusively sponsored by [Frontend Masters](https://frontendmasters.com).
+Это издание серии книг **YDKJS** спонсируется исключительно компанией [Frontend Masters] (https://frontendmasters.com).
 
-Frontend Masters is the gold standard for top-of-the-line expert training material in frontend-oriented software development. With over 150 courses on all things frontend, this should be your first and only stop for quality video training on HTML, CSS, JS, and related technologies.
+Frontend Masters - это золотой стандарт первоклассных экспертных учебных материалов в области разработки программного обеспечения, ориентированного на front-end. Имея более 150 курсов по фронтенду, это должна быть ваша первая и единственная остановка для качественного видео-обучения HTML, CSS, JS и связанным с ними технологиям.
 
 ----
 
-I teach [all my workshops](https://frontendmasters.com/kyle-simpson) exclusively through Frontend Masters. If you like this book content, please check out my video training courses.
+Я преподаю [все мои семинары](https://frontendmasters.com/kyle-simpson) исключительно через Frontend Masters. Если вам нравится содержание этой книги, пожалуйста, ознакомьтесь с моими видео-обучающими курсами.
 
-I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
+Я хочу выразить теплую и глубокую благодарность Марку Грабански и всей команде Frontend Masters, не только за их отличную работу с видео-обучающей платформой, но и за их непоколебимую поддержку меня и книг **YDKJS**!
 
 ----
 
@@ -34,27 +34,26 @@ I recommend reading the **second edition** books in this order:
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+Если вы ищете предыдущее **первое издание** книг, [их можно найти здесь](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
 ## Publishing
 
-As always, you'll be able to read these books online here entirely for free.
+Как всегда, вы сможете прочитать эти книги онлайн здесь совершенно бесплатно.
 
-This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
+Это издание книг публикуется самостоятельно через [Github] (https://geti.pub) издательство. Изданные книги будут доступны для продажи через обычные книжные розничные источники.
 
-If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
+Если вы хотите внести финансовый вклад в эти усилия (или любые другие мои усилия в области OSS) помимо покупки опубликованных книг, пожалуйста, рассмотрите следующие варианты:
 
 * [Github Sponsorship](https://github.com/users/getify/sponsorship)
 * [Patreon](https://www.patreon.com/getify)
 * [Paypal](https://www.paypal.me/getify)
 
 ## Contributions
+Пожалуйста, не стесняйтесь вносить свой вклад в качество этого материала, отправляя PR для улучшения кода, объяснений и т.д. Хотя исправление опечаток приветствуются, они, скорее всего, будут пойманы в ходе обычных процессов редактирования/публикации, поэтому, **пожалуйста, не беспокойтесь о них прямо сейчас**.
 
-Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing/publishing processes, **so please don't worry about them right now.**
+Любой сделаный вами вклад **очень ценен**.
 
-Any contributions you make to this effort **are of course greatly appreciated**.
-
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+Но, **Пожалуйста** прочитайте [Contributions Guidelines](CONTRIBUTING.md) внимательно перед тем, как отправлять PR.
 
 ## License & Copyright
 
